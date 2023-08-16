@@ -14,3 +14,7 @@ $ git init
 ``` javascript
 var myVar = "Hello World";
 ```
+
+Task List:
+- [ ] This item is not complete
+- [x] This item is complete
